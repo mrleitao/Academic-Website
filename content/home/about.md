@@ -1,21 +1,10 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
+widget_id: About
 ---
+I am currently in the third year of my Psychology Ph.D program with a concentration in Human Development and Public Policy Ph.D. program. I work with [Dr. Kostadin Kushlev](https://www.kushlev.com/) in the Digital Health and Happiness Lab focusing on social perceptions of technology and technology's influence on human behavior. I hails from sunny Southern California, and have extensive previous research experience in health and social psychology. After obtaining my Ph.D., my goal is to continue working in academia, and use both my Psychology research and Public Policy expertise to study the current and future impacts of technology and how it may better complement our lives.
